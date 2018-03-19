@@ -1,0 +1,5 @@
+D:/nao/naoqi-sdk-2.1.4.13-win32-vs2010/doc/dev/cpp/examples/naokinect1.0control/build-mytoolchain/CMakeFiles/nao_kinect1.0_control.dir
+D:/nao/naoqi-sdk-2.1.4.13-win32-vs2010/doc/dev/cpp/examples/naokinect1.0control/build-mytoolchain/CMakeFiles/test_nao_kinect1.0_control.dir
+D:/nao/naoqi-sdk-2.1.4.13-win32-vs2010/doc/dev/cpp/examples/naokinect1.0control/build-mytoolchain/CMakeFiles/INSTALL.dir
+D:/nao/naoqi-sdk-2.1.4.13-win32-vs2010/doc/dev/cpp/examples/naokinect1.0control/build-mytoolchain/CMakeFiles/ALL_BUILD.dir
+D:/nao/naoqi-sdk-2.1.4.13-win32-vs2010/doc/dev/cpp/examples/naokinect1.0control/build-mytoolchain/CMakeFiles/ZERO_CHECK.dir

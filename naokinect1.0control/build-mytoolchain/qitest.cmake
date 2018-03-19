@@ -1,0 +1,1 @@
+--name;test_nao_kinect1.0_control;--timeout;20;--;D:/nao/naoqi-sdk-2.1.4.13-win32-vs2010/doc/dev/cpp/examples/naokinect1.0control/build-mytoolchain/sdk/bin/test_nao_kinect1.0_control_d.exe
